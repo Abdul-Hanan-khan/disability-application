@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844210698847",
+    "project_id": "disabilityapplication-87131",
+    "storage_bucket": "disabilityapplication-87131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844210698847:android:c367d714317dfcc555b9ea",
+        "android_client_info": {
+          "package_name": "com.example.disability_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844210698847-tr0i34b46h25j5rsj8hmc9lgd6f7vkh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VDAciR275X3dDSGJJPH8O1S8wS-2xP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844210698847-tr0i34b46h25j5rsj8hmc9lgd6f7vkh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
